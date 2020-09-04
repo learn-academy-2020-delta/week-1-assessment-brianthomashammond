@@ -9,7 +9,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: A function is a repeatable set of actions performed on data. You use them to quickly, efficiently, and reliably perform tasks.
 
-  Researched answer:
+  Researched answer: Functions require an input and give an output related to that input.
 
 
 
@@ -21,7 +21,9 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Neither .map() nor .filter() makes any change to the original array.
 
-  Researched answer:
+  Researched answer: .map(): More specifically, "a certain operation" could be a function call. The function is called on each array element in order.
+
+  .filter(): Can return an empty array.
 
 
 
@@ -31,7 +33,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   return gives a value at the end of a function. That value can then be used by other functions and methods in the program.
 
-  Researched answer:
+  Researched answer: I like these.
 
 
 
@@ -39,7 +41,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: An argument is the specific case of a function's parameter that is used to execute the function in that instance.
 
-  Researched answer:
+  Researched answer: I think this is right. I read somewhere that in a function definition the unfilled variable is a parameter, and when a function is called the user's specific input is an argument. My google is failing me now though.
 
 
 
@@ -47,7 +49,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Proper pair programming roles consist of the navigator and the driver. It is the navigator's role to conceptualize the coding approach and articulate instructions to the driver on how to enter the code into the text editor. It is the driver's role to accurately execute the navigator's instructions.
 
-  Researched answer:
+  Researched answer: Should have added that it's both person's role to catch mistakes, debug, and keep each other on task. Also, conversing about the code can help both parties understand the code better.
 
 
 
@@ -55,13 +57,13 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: TDD is Test Driven Development. A testing file is created and yarn jest is invoked in the same directory. A test is described in the testing file with expectation examples and run in jest. When the test fails correctly, the code is written which will make the test succeed.
 
-  Researched answer:
+  Researched answer: Should have mentioned refactoring after further test fails. Also, it's probably possible to do TDD without jest.
 
 
 
 7. What is something we did in class this week you found helpful?  
 
-  Your answer: So much. Like sooooooooo much. Everyone is really great with answering our questions, our time is respected, everyone is polite and supportive. It's great.
+  Your answer: So much. Sooooooooo much. Everyone is really great with answering our questions, our time is respected, everyone is polite and supportive. It's great.
 
 
 
