@@ -9,7 +9,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: A function is a repeatable set of actions performed on data. You use them to quickly, efficiently, and reliably perform tasks.
 
-  Researched answer: Functions require an input and give an output related to that input.
+  Researched answer: Should have explicitly stated that functions are reusable code. Functions require an input and give an output related to that input.
 
 
 
